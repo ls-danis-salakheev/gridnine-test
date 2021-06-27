@@ -13,7 +13,7 @@ A testing task for Junior Java Developer at _Gridnine Systems_
 
 -----
 
-### Execution
+###Execution
 
 1) via IDE:
 2) by Gradle-wrapper
