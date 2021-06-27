@@ -4,16 +4,16 @@
 
 A testing task for Junior Java Developer at _Gridnine Systems_
 
-###Technologies:
+### Technologies:
 * Java 15
 * Gradle 6.7
 * JUnit 5
 
-####Full [instructions](test-instructions.odt) in Russian
+#### Full [instructions](test-instructions.odt) in Russian
 
 -----
 
-###Execution
+### Execution
 
 1) via IDE:
 2) by Gradle-wrapper
